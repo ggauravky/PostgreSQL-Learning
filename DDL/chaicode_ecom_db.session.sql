@@ -1,1 +1,0 @@
-create database chaicode_ecom_db;

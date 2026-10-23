@@ -8,8 +8,7 @@
             "driver": "PostgreSQL",
             "name": "chaicode_ecom_db",
             "database": "chaicode_ecom_db",
-            "username": "postgres",
-            "password": "postgres"
+            "username": "postgres"
         }
     ]
 }
